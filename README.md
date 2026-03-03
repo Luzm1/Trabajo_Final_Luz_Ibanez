@@ -52,7 +52,7 @@ streamlit run app.py</pre>
 <h2 style="color:#111827; font-family:Segoe UI, system-ui;">🔗 Enlaces</h2>
 <ul style="color:#374151; font-size:14px; list-style-type:none; padding-left:0;">
   <li><strong>Repositorio GitHub:</strong> <em>https://github.com/Luzm1/Trabajo_Final_Luz_Ibanez/tree/main</em></li>
-  <li><strong>Aplicación en Streamlit Cloud:</strong> <em>https://trabajopractico1luzibanez.streamlit.app/</em></li>
+  <li><strong>Aplicación en Streamlit Cloud:</strong> <em>https://trabajofinalluzibanez.streamlit.app/</em></li>
 </ul>
 
 <h2 style="color:#111827; font-family:Segoe UI, system-ui;">👩‍💻 Autor</h2>
